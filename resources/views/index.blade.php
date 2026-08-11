@@ -1,5 +1,7 @@
 @extends('layout')
-
+@can('admin')
+  {{-- Verificar permission customizada --}}
+@endcan
 @section('content')
-Starter Next Generation
+Seu curso é: {{ $curso }}
 @endsection

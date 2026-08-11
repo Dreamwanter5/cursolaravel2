@@ -17,6 +17,7 @@ class LivroRequest extends FormRequest
             'titulo' => 'required',
             'autor' => 'required',
             'ano' => 'required',
+            'imagem'   => 'nullable|image|mimes:jpeg,jpg|max:2048'
         ];
         return $rules;
     }

@@ -1,0 +1,6 @@
+Novo livro criado: {{ $livro->titulo }}
+<form method="POST" action="/livros" enctype="multipart/form-data">
+    ...
+    Capa (JPEG): <input type="file" name="imagem" accept="image/jpeg">
+    ...
+</form>
