@@ -10,10 +10,12 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
+        "fflch/laravel-fflch-pdf": "^1.0",
         "laravel/framework": "^13.8",
         "laravel/tinker": "^3.0",
         "league/csv": "^9.28",
         "phpoffice/phpspreadsheet": "^5.9",
+        "spatie/laravel-model-status": "^1.20",
         "uspdev/laravel-usp-theme": "^2.8",
         "uspdev/replicado": "^1.28",
         "uspdev/senhaunica-socialite": "^4.5"

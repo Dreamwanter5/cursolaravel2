@@ -55,6 +55,20 @@ class LivroCrudTest extends DuskTestCase
                 ->acceptDialog()
                 ->assertPathIs('/livros')
                 ->assertDontSee('Rerum quasi vitae dolore. - Editado');
+
+            // Export to Excel
+            $browser->visit('/livros/excel?search=Editado');
+            $response = $this->get('/livros/excel?search=Editado');
+            $response->assertStatus(200);
+            $response->assertHeader('content-disposition', 'attachment; filename=livros.xlsx');
+
+            // Export to PDF
+            $browser->visit('/livros/pdf?search=Editado');
+            $response = $this->get('/livros/pdf?search=Editado');
+            $response->assertStatus(200);
+            $response->assertHeader('content-disposition', 'attachment; filename=livros.pdf');
+
+
         });
     }
 }

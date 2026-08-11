@@ -5,6 +5,10 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
 use App\Models\Livro;
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
+use PDF;
+
 
 class LivroController extends Controller
 {
@@ -20,6 +24,57 @@ class LivroController extends Controller
         ]);
     }
     
+    public function pdf(Request $request)
+{
+    if ($request->filled('search')) {
+        $livros = Livro::where('titulo', 'like', '%' . $request->search . '%')->get();
+    } else {
+        $livros = Livro::all();
+    }
+
+    $pdf = PDF::loadView('livros.pdf', [
+        'livros' => $livros,
+    ]);
+
+    return $pdf->download('livros.pdf');
+}
+
+    public function excel(Request $request)
+    {
+        if ($request->has('search')) {
+            $livros = Livro::where('titulo', 'like', '%' . $request->search . '%')->get();
+        } else {
+            $livros = Livro::all();
+        }
+
+        $spreadsheet = new Spreadsheet();
+        $sheet = $spreadsheet->getActiveSheet();
+
+        // Cabeçalho
+        $sheet->fromArray([
+            ['Título', 'Autor', 'Ano']
+        ]);
+
+        // Dados
+        $linha = 2;
+        foreach ($livros as $livro) {
+            $sheet->fromArray([
+                $livro->titulo,
+                $livro->autor,
+                $livro->ano,
+            ], null, "A{$linha}");
+
+            $linha++;
+        }
+
+        $writer = new Xlsx($spreadsheet);
+
+        return response()->streamDownload(
+            fn() => $writer->save('php://output'),
+            'livros.xlsx'
+        );
+    }
+
     public function imagem(Livro $livro)
     {
         return Storage::download($livro->imagem_path, $livro->imagem_original_name);
@@ -37,7 +92,11 @@ class LivroController extends Controller
     }
 
     public function create(){
-        return view('livros.create');
+        return view('livros.create', [
+            'livro' => new Livro()
+        ]);
+        $livro->setStatus('pedido');
+        $livro->setStatus('aprovado');
     }
 
     public function store(Request $request){
@@ -77,7 +136,9 @@ class LivroController extends Controller
         $livro->titulo = $request->titulo;
         $livro->autor = $request->autor;
         $livro->ano = $request->ano;
-        
+        $livro->setStatus('pedido');
+        $livro->setStatus('aprovado');
+
         $livro->user_id = auth()->id();
         $livro->save();
         return redirect("/livros/{$livro->id}");

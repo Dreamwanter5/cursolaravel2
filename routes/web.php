@@ -16,3 +16,4 @@ Route::delete('/livros/{livro}', [LivroController::class, 'destroy']);
 Route::get('/livros/imagem/{livro}', [LivroController::class,'imagem']);
 Route::delete('/livros/imagem/{livro}', [LivroController::class,'destroy_imagem']);
 Route::get('/livros/excel', [LivroController::class,'excel']);
+Route::get('/livros/pdf', [LivroController::class,'pdf']);

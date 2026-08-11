@@ -2,6 +2,16 @@
 
 @section('content')
 
+@if($livro->imagem_path)
+    <img src="/livros/imagem/{{ $livro->id }}" width="200px"> <br>
+
+    <form action="/livros/imagem/{{ $livro->id }} " method="post">
+    @csrf
+    @method('delete')
+    <button type="submit" onclick="return confirm('Tem certeza?');">Deletar Imagem</button> 
+</form>
+@endif
+
 Titulo: {{ $livro->titulo }} <br>
 Autor: <i>{{ $livro->autor }}</i> <br>
 Ano de publicação: {{ $livro->ano }} <br>
@@ -30,4 +40,12 @@ Ano de publicação: {{ $livro->ano }} <br>
     @method('delete')
     <button type="submit" onclick="return confirm('Tem certeza?');">Apagar</button> 
 </form>
+
+<a href="/livros/excel/?search={{ request('search') }}" class="btn btn-success">
+    Exportar Excel
+</a>
+<a href="/livros/pdf/?search={{ request('search') }}" class="btn btn-success">
+    Exportar Pdf
+</a>
+
 @endsection
