@@ -32,4 +32,9 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    public function livros()
+    {
+        return $this->hasMany(Livro::class);
+    }
 }

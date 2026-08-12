@@ -11,7 +11,7 @@ Route::get('/livros/create', [LivroController::class, 'create']);
 Route::post('/livros', [LivroController::class, 'store']);
 Route::get('/livros/excel', [LivroController::class,'excel']);
 Route::get('/livros/pdf', [LivroController::class,'pdf']);
-Route::get('/livros/{livro}', [LivroController::class, 'show'])->whereNumber('livro');
+Route::get('/livros/{livro}', [LivroController::class, 'show']);
 Route::get('/livros/{livro}/edit', [LivroController::class, 'edit'])->whereNumber('livro');
 Route::patch('/livros/{livro}', [LivroController::class, 'update'])->whereNumber('livro');
 Route::delete('/livros/{livro}', [LivroController::class, 'destroy'])->whereNumber('livro');
