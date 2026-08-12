@@ -2,10 +2,13 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\IndexController;
+use App\Http\Controllers\ConfiguracaoEmailController;
 
 Route::get('/', [IndexController::class, 'index']);
 use App\Http\Controllers\LivroController;
 
+Route::get('/configuracoes/email', [ConfiguracaoEmailController::class, 'edit'])->name('configuracoes.email.edit');
+Route::put('/configuracoes/email', [ConfiguracaoEmailController::class, 'update'])->name('configuracoes.email.update');
 Route::get('/livros', [LivroController::class, 'index']);
 Route::get('/livros/create', [LivroController::class, 'create']);
 Route::post('/livros', [LivroController::class, 'store']);
