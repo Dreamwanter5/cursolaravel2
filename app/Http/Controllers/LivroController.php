@@ -152,4 +152,13 @@ class LivroController extends Controller
         $livro->delete();
         return redirect('/livros');
     }
+
+    public function showAudits(Livro $livro)
+    {
+        $audits = $livro->audits()->with('user')->get();
+        return view('livros.audits', [
+            'livro' => $livro,
+            'audits' => $audits
+        ]);
+    }
 }

@@ -17,3 +17,4 @@ Route::patch('/livros/{livro}', [LivroController::class, 'update'])->whereNumber
 Route::delete('/livros/{livro}', [LivroController::class, 'destroy'])->whereNumber('livro');
 Route::get('/livros/imagem/{livro}', [LivroController::class,'imagem'])->whereNumber('livro');
 Route::delete('/livros/imagem/{livro}', [LivroController::class,'destroy_imagem'])->whereNumber('livro');
+Route::get('/livros/{livro}/audits', [LivroController::class,'showAudits'])->whereNumber('livro');

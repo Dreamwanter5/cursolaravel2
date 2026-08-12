@@ -47,5 +47,8 @@ Ano de publicação: {{ $livro->ano }} <br>
 <a href="/livros/pdf/?search={{ request('search') }}" class="btn btn-success">
     Exportar Pdf
 </a>
+<a href="/livros/{{ $livro->id }}/audits" class="btn btn-info">
+    Ver Histórico de Edições
+</a>
 
 @endsection
