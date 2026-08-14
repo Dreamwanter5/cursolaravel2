@@ -100,12 +100,13 @@ class LivroController extends Controller
     }
 
     public function store(Request $request){
+        $livro = new Livro;
+
         if ($request->hasFile('imagem')) {
             $livro->imagem_original_name = $request->file('imagem')->getClientOriginalName();
             $livro->imagem_path = $request->file('imagem')->store('livros');
         }
 
-        $livro = new Livro;
         $livro->titulo = $request->titulo;
         $livro->autor = $request->autor;
         $livro->ano = $request->ano;
@@ -161,4 +162,6 @@ class LivroController extends Controller
             'audits' => $audits
         ]);
     }
+
+    
 }

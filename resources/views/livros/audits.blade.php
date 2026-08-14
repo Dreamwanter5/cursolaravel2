@@ -62,7 +62,6 @@ Ano de publicação: {{ $livro->ano }} <br>
                     <th>Data/Hora</th>
                     <th>Ação</th>
                     <th>Campos Modificados</th>
-                    <th>IP / Navegador</th>
                 </tr>
             </thead>
             <tbody>
@@ -93,9 +92,6 @@ Ano de publicação: {{ $livro->ano }} <br>
                         </td>
                         <td>
                             @php $meta = $audit->getMetadata(); @endphp
-                            @if(!empty($meta['ip_address']))
-                                IP: {{ $meta['ip_address'] }}<br>
-                            @endif
                             @if(!empty($meta['user_agent']))
                                 <small class="text-muted">{{ Str::limit($meta['user_agent'], 30) }}</small>
                             @endif
