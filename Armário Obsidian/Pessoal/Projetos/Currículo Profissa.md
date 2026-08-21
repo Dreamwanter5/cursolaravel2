@@ -1,0 +1,14 @@
+---
+tags:
+  - Projetos
+---
+Em razão de tornar-me mais seguro quanto as minhas ferramentas utilizadas para poder adentrar o mercado de trabalho vejo como imprescindível que eu atualize meu perfil do LinkedIn, GitHub e também do currículo Lattes para que eu possa ter uma segurança maior para conseguir empregos. Esse não é um projeto que tem data definida, mas se em algum dia eu estiver moscando, eu posso fazer isso e ter anotado isso aqui me faz crer que isso se torne um fantasma que ficará em minha cabeça até que se resolva.
+
+- [x]  Perfil do Linkedin 2.0 🔼 ➕ 2025-02-07 ✅ 2025-12-29
+      Estou  contente, eu consegui completar o meu perfil sem problemas, e acho que ele esta bem preparado, contudo, é notável uma cisão que existe nele. Minha descrição é a de um técnico de informática, mas ainda assim, tudo que me é relevante, conversa com a ciências humanas, então, fazer o meu perfil no linkedin se provou ser na verdade uma tarefa um tanto traiçoeira, porque ela pede que eu coloque informações que eu nem tenho ao certo direito. Mas eu fico contente que isto já está pronto, e se esse perfil servir para abranger minha carreira acadêmica, creio que está bem encaminhado. Amanhã, quero fazer o Lattes
+- [x]  Perfil do GitHUB 2.0 ➕ 2025-02-07 ✅ 2025-12-31
+- [x]  Perfil do Lattes 📅 0 ✅ 2025-12-31
+		Tanto o perfil do lattes quando o do github foram processos tranquilos, eu reparei como eles recebem o mesmo problema que meu perfil no linkedin, eu tenho uma formação enquanto técnico em informático, todavia grande parte de minha atuação acadêmica foi enquanto um pesquisador de ciências humanas. O perfil do github foi satisfatório de preencher, faz realmente parecer que eu fiz coisas para caralho, porque meio tecnicament eeu fiz, foram anos bem vastos e que eu registrei tudo que aconteceu, acho que ser um maníaco por informação 
+		O curróculo lattes foi algo interessante de preencher, eu tenho medo de ser Homolates, mas meio que eles valorizam esse tipo de coisa, mesmo que tenha sido a participação repetida no mesmo eventou, ou publicações com o mesmo título mas com coisas diferentes, publicação é publicação. Agora eu só preciso me conscientizar de sempre atualizá-lo conforme eu participar de eventos, palestras, trabalhos voluntários, seminários, congressos, tudo tem seu peso para colocar no currículo lattes. Eu sinceramente fico bem contente de ter conseguindo finalizar esses projetos, um projeto a cada dia, foi bem funcional.
+- [x]  Organizar pastas no computador (Backup) ✅ 2026-01-01
+      Eu não acredito que eu consegui, eu realizei, eu realizei tudo... E foi tão... fácil? Eu só precisei de um tempinho, parado, e eu consegui fazer tudo o que eu planejei, eu... Eu to contente com isso, de verdade. Agora só falta que eu faça um backup das imagens em meu celular, mas meu google photos ta completamente limpo agora, que maravilha.

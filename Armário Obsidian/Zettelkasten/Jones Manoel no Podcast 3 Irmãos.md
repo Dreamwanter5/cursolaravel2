@@ -1,0 +1,29 @@
+---
+tags:
+  - Zettelkasten
+  - Sociologia
+  - Política
+---
+Tags: [[Zettelkasten]], [[Ciências Sociais]]
+
+Antes de discorrer sobre meu TCC em outras Abas, queria registrar aqui minha experiência de 2 dias escutando o podcast do Jones Manoel no podcast 3 irmãos enquanto eu fazia meu treino de academia. 
+
+Eu escutei esse podcast entre os dias 10/02 e 11/02/2024 e tenh coisas a comentar e registrar. Pois creio que conforme eu fizer mais disso, mais eu posso construir meu pensamento crítico e também a como expressar minhas ideias e opiniões através de palavras
+
+O podcast tem a duração de 3 horas, em cada dia eu escutei por volta de 1 hora e meia e ainda assim eu pude absorver uma grande quantidade de conteúdo sobre. A participação do Jones foi meio diferente ao programa porque assim como os apresentadores comentaram era a primeira vez que traziam um comunista para o show, e assim foi uma experiência construtiva partindo do fato de que o Roberto e o Rodrigo eram abertos as ideias do Jones sem demonstrar hostilidade e Jones apesar de ser meio técnico também se fez claro, nesse sentido creio que para mim a metodologia empregada pela [[Rita Von Huty]] me apetece muito mais no que diz respeito a sua forma de se comunicar.
+
+##### Primeira 1 hora de podcast
+
+O primeiro debate que ocorreu foi uma questão levantada por Rodrigo com o senso comum dele no que diz respeito ao capitalismo, isso veio através da fala de "eu acho que o capitalismo é algo inato ao ser humano", onde o Jones rebateu dizendo que isso era uma ideia de senso comum, mas afinal porque? Isso porque o capitalismo é um sistema estruturado em uma sociedade de classes, onde uma classe consegue expropriar outra a fim do seu próprio benefício, recuperando casos históricos, haviam tempos em que as pessoas produziam algo, e esse algo além de ser comercializado, ele era utilizado para consumo próprio, algo que não acontece mais na atualidade em mérito do próprio capitalismo, e nesse sentido, dizer que o capitalismo é natural seria uma falácia, porque isso confunde o capitalismo como se fosse ==Trocas Voluntárias==, mas trocas acontecem desde decendios e o capitalismo é apenas um bebe de 150 anos. 
+
+Outro ponto interessante debatido foi o a natureza do sistema, quando Roberto comentou sobre o capitalismo ser uma boa opção mas que está limitado pelo uso mal intencionado das pessoas. Algo rebatido ao dizer que que a exploração é o cerne do sistema, não porque há pessoas más por trás disso, mas porque esse é o modo como ele é. Um exemplo dado por Jones ao descrever esse caso seria a de trabalhadores na coleta de cacau na costa do marfim, África do sul e alguns países na américa do sul. Onde que para que o **chocolate belga** continue sendo prestigiado e comercializado a valores exorbitantes, é necessário que aquelas pessoas passem por dificuldades e tenham um trabalho insalubre em sua produção. E no instante em que algo diferente ousasse acontecer, caso os trabalhadores reivindicassem aquela produção de cacau para si próprios, o resultado seria o uso de violência, ou até mesmo a possibilidade de golpes que continuem a divisão de classes daquele povo, os tornando permanentes na posição de explorados e marginalizados. Não me recordo se jones citou mais exemplos práticos, talvez mencionar o golpe de 64 neste trecho também teria feito sentido.
+
+Quando Roberto questionou o valor do agronegócio para o Brasil, Jones trouxe uma contribuição interessantissíma no que diz respeito a na verdade o agro brasileiro se um desserviço a nossa economia, isso em mérito de que meia dúzia de barões da soja sequer estão dispostos ou se preocupam com o avanço tecnológico do pais, uma vez que eles continuem no poder, isso foi se tangenciando ainda ao ponto de o como isso diz respeito a dinâmica de exploração da humanidade com coisas que são recursos **finitos**. O Agro brasileiro, usa **mais água que o estado todo do Rio de Janeiro** e não paga imposto sobre lucros e dividendos em sua exportação. Temos um potencial absurdo para cultivar muitas outras coisas além da soja.
+**O agro tem 400 bilhões do plano safra** e **a agricultura familiar tem apenas 60**, e a grosso modo, sempre interessante pensar que a agricultura que alimenta o Brasil é a agricultura familiar.
+
+Existe um sistema que provê isenção fiscal para empresas do brasil, e **18% delas são do agronegócio**. Isso estipula um gasto já de quase 4 trilhões. A **Lei Candirr** é algo que isenta o agro de qualquer tipo de imposto para importação, sobrando para o trabalhador cobrir esse gasto, e ISSO É PARA SOJA E NÃO PARA ARROZ E FEIJÃO, ISSO NEM PARA NO NOSSO PRATO E A GENTE PAGA POR ISSO. E QUANDO ELES MANDAM PRA FORA ELES RECEBEM O PAGAMENTO, ELE VEM EM DOLAR E ELES TEM UM PRAZO DE ATÉ **1 ANO** PARA FAZER O CÂMBIO EM REAL, ELES PODEM FAZER UMA FARRA DE ESPECULAÇÃO AO INVÉS DE CONTRIBUIR ATIVAMENTE PRO PAÍS AHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHAHAHHA. O agro também tem uma isenção de impostos e auxilio para a compra de maquinários. 
+Os manos, gastam água pra caralho, não geram emprego, fodem com a terra, não pagam nada... Vey
+
+Isso só adiciona ao fato do Brasil ser um país desindustrializado, desdolarizado e sem tecnologia. O agro explora o Brasil. 
+
+Em dado momento, acho interessante comentar sobre a questão de paineis solares no brasil e as empresas de energia. Onde praticamente nenhuma empresa de energia de fato é nossa, a gente paga energia para ir pro bolso de europeu, isso exemplificado pela Enel e também pela empresa em minas. Outros pontos fortes que sustentarm essa injustiça ta no fato de que o nordeste brasileiro é top tier em produção de energia heólica e nem por isso a gente paga menos por energia. Quando se planejou a construção de novas hidrelétricas, houve um período que sim a energia foi cara, mas em dado momento isso já foi cobrido, e nem por isso o custo da energia reduziu, isso é mamata. Coisa que vem desde o FHC

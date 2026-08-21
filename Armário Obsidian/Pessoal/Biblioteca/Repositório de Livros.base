@@ -1,0 +1,25 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Pessoal/Biblioteca/Livros"
+    order:
+      - file.name
+      - tags
+      - Status
+      - Autor
+      - fim
+    image: note.capa
+    imageFit: contain
+    imageAspectRatio: 1.35
+    cardSize: 200
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Pessoal/Biblioteca/Livros"
+    order:
+      - file.name
+      - file.tags
+    image: note.capa

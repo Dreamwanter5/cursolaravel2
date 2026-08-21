@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a6dd7e066a2ff93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheckPoint.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CheckPoint"
+            }
+          },
+          {
+            "id": "5da8003493dd5121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudo/Faculdade/Estágio/Estágio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Estágio"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "392fe94da0b9e02e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a6314d26411763e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e79c4b67f10f1d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "260607370f949202",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "empresta",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f13dbad3124766ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "a1b05a729d86f2a3",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          },
+          {
+            "id": "68102caef7ec2fe2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.96875
+  },
+  "right": {
+    "id": "69abbe137e305de8",
+    "type": "split",
+    "children": [
+      {
+        "id": "785228db5141701e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40bb104f22d1b9b5",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "24c9cd17fae875ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "572db81a08d450a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cfbe88d9e4ace647",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudo/Faculdade/Estágio/Reuniões/Reunião dia 14.08.2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "360a96db28a75378",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudo/Faculdade/Estágio/Laravel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "homepage:Open homepage": false,
+      "quickadd:QuickAdd": false,
+      "cmdr:QuickAdd: Novo Livro": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
+    }
+  },
+  "active": "5da8003493dd5121",
+  "lastOpenFiles": [
+    "Estudo/Faculdade/Estágio/Reuniões/Reunião dia 21.08.26.md",
+    "Estudo/Faculdade/Estágio/Laravel.md",
+    "Estudo/Faculdade/Estágio/Reuniões/Reunião dia 14.08.2026.md",
+    "Atividades Laravel \"férias\".md",
+    "Estudo/Faculdade/Estágio/Reuniões/Reunião dia 25.06.26 - Reunião memoria negra.md",
+    "Estudo/Faculdade/Estágio/Reuniões/Reunião do dia 08.05.26.md",
+    "Estudo/Faculdade/Estágio/Tasks/Atividade Laravel Dia 3.md",
+    "Estudo/Faculdade/Estágio/Reuniões/Reunião dia 10.06.26 - memorianegra.md",
+    "Estudo/Faculdade/Estágio/Reuniões/Reunião dia 15.05.26.md",
+    "Estudo/Faculdade/Estágio/Estágio.md",
+    "CheckPoint.md",
+    "Estudo/Faculdade/Estágio/Ofícios.md",
+    "Estudo/Faculdade/Estágio/Dockerfile.md",
+    "Estudo/Faculdade/Estágio/Docker.md",
+    "Estudo/Faculdade/Estágio/Tasks/Atividades Laravel \"férias\".md",
+    "Pessoal/Projetos.md",
+    "Pessoal/Biblioteca/Livros.md",
+    "Estudo/Faculdade/Disciplinas do Curso/1.1 História da América Colonial.md",
+    "Pessoal/Biblioteca/Repositório de Livros.base",
+    "Estudo/Faculdade/Leituras/Achebe, Chinua. O nome difamado da África.md",
+    "Reunião do dia 12.06.26.md",
+    "Estudo/Faculdade/Leituras/Gagnebin, Jeanne Marie. Verdade e Memória do Passado. 1998. p. 213 - 221.md",
+    "Estudo/Faculdade/Disciplinas do Curso/1.2. História da África.md",
+    "Estudo/Faculdade/Faculdade.md",
+    "Estudo/Faculdade/Disciplinas do Curso/1.2. História Medieval.md",
+    "Estudo/Faculdade/Disciplinas do Curso/1.2. História indígena.md",
+    "Estudo/Faculdade/Disciplinas do Curso/1.2. História Antiga.md",
+    "Imagens/História Medieval_2024_0.pdf",
+    "Imagens/História Antiga_2025.2_Rafael Scopacasa_0.pdf",
+    "Imagens/Disciplina FLH0649 [Zacarias Chambe].pdf",
+    "Imagens/História Indígena - Prof. Gustavo Velloso (2026.2).pdf",
+    "Estudo/Faculdade/Estágio/Tasks",
+    "Estudo/Faculdade/Leituras",
+    "Estudo/Faculdade/Estágio/Reuniões",
+    "Pessoal/Audiovisual/Visualização de Animes e Mangas.base",
+    "Imagens/Pasted image 20260603122052.png",
+    "Pessoal/Personagens, OC's/Narciso & Leo MindFlow.canvas",
+    "Imagens/Aula 7 -MELLO, Evaldo Cabral de. Prefácio e A empresa da terra e a vitória do mar de Olinda Restaurada.pdf",
+    "Estudo/Ensino médio/Escola/2º Ano/Notas para o Artigo de engenharia de software.canvas",
+    "Imagens/Pasted image 20260508103743.png",
+    "Imagens/Pasted image 20260505072133.png",
+    "Imagens/Pasted image 20260217210401.png",
+    "Imagens/Pasted image 20260217210340.png",
+    "Imagens/Pasted image 20260210140057.png",
+    "Imagens/Pasted image 20260131151316.png",
+    "Imagens/Pasted image 20260123214942.png",
+    "Imagens/Pasted image 20260106090201.png",
+    "Imagens/Pasted image 20260106090059.png",
+    "Pessoal/Personagens, OC's/Mapa de Relacionamentos Zete.canvas",
+    "Pessoal/Personagens, OC's/Rene Mindflow.canvas",
+    "quadro de beijos ifpr.canvas",
+    "Diagrama de Navegação de telas.canvas",
+    "Estudo/Ensino médio/Escola/3 Ano/Protocolos, um guia rápido.canvas",
+    "Pessoal/Personagens, OC's/Wend - Mind Flow.canvas"
+  ]
+}

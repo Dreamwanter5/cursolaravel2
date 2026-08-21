@@ -1,0 +1,43 @@
+/* ======================================================
+   ESTILO ACADÊMICO PARA O OBSIDIAN (EDITOR & PREVIEW)
+   ====================================================== */
+
+/* 1. Expande a área útil de edição e leitura */
+.cm-sizer,
+.markdown-rendered.mod-single-child {
+    max-width: 900px !important; /* Ajuste para mais largo/estreito se preferir */
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* 2. Formatação do Texto do Editor (Modo Edição e Live Preview) */
+.cm-line {
+    font-family: "Times New Roman", "Arial", serif !important;
+    font-size: 12pt !important;
+    line-height: 1.5 !important;
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+/* Recuo na primeira linha do parágrafo (Apenas em blocos de texto normal) */
+.cm-line:not(.hypermd-header):not(.cm-active):not(.hypermd-list-line):not(.hypermd-quote) {
+    text-indent: 1.25cm !important;
+}
+
+/* 3. Formatação da Leitura (Reading View / Exportação em PDF) */
+.markdown-rendered p {
+    font-family: "Times New Roman", "Arial", serif !important;
+    font-size: 12pt !important;
+    line-height: 1.5 !important;
+    text-align: justify !important;
+    text-indent: 1.25cm !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Adjustes nos Títulos (Opcional: mantém destaque sem quebrar o padrão) */
+.cm-header, .markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3 {
+    font-family: "Times New Roman", "Arial", serif !important;
+    text-align: left !important; /* Títulos costumam ser alinhados à esquerda */
+    text-indent: 0 !important;
+}

@@ -1,0 +1,31 @@
+.area_principal {
+    padding-right: 0;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.center{
+    text-align: center;
+}
+
+
+
+.area_principal div > ul > li{
+    text-align: center;
+}
+
+.area_principal h1,
+.area_principal h2,
+.area_principal h3,
+.area_principal h4,
+.area_principal h5,
+.area_principal h6 {
+    text-align: center !important;
+}
+
+.area_principal .markdown-preview-section {
+    max-width: 85% !important;
+}
+

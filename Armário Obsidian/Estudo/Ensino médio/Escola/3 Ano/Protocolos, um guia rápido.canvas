@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"30b15fb4de5a9a74","type":"group","x":-400,"y":-176,"width":320,"height":400,"color":"4","label":"Transmissor"},
+		{"id":"aa3e20f0148f62b7","type":"group","x":34,"y":-176,"width":320,"height":400,"color":"4","label":"Receptor"},
+		{"id":"8742395f9bb9e076","type":"text","text":"#### Aplicação","x":64,"y":-157,"width":250,"height":60,"color":"6"},
+		{"id":"60609870644b8a35","type":"text","text":"#### Transmissão","x":64,"y":-76,"width":250,"height":60,"color":"5"},
+		{"id":"a5becc6b8359175d","type":"text","text":"#### InterRedes\n","x":64,"y":4,"width":250,"height":60,"color":"3"},
+		{"id":"c6aab331a62ca9f2","type":"text","text":"#### Aplicação","x":-370,"y":-157,"width":250,"height":60,"color":"6"},
+		{"id":"b23a556fb55a2e82","type":"text","text":"#### Transmissão","x":-370,"y":-76,"width":250,"height":60,"color":"5"},
+		{"id":"8bb5dd338744c362","type":"text","text":"#### InterRedes\n","x":-370,"y":4,"width":250,"height":60,"color":"3"},
+		{"id":"6119162928bbe765","type":"text","text":"#### Host-Rede\n","x":-370,"y":84,"width":250,"height":60,"color":"1"},
+		{"id":"31e65638be37d11d","type":"file","file":"Estudo/Ensino médio/Escola/3 Ano/Redes de Computadores II.md","x":-400,"y":-360,"width":420,"height":130},
+		{"id":"f60d0a07d569a421","type":"text","text":"#### Host-Rede\n","x":64,"y":84,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"dc90546067aba3a7","fromNode":"c6aab331a62ca9f2","fromSide":"right","toNode":"8742395f9bb9e076","toSide":"left","color":"6","label":"Protocolo"},
+		{"id":"ca2ba525dfb5e59d","fromNode":"b23a556fb55a2e82","fromSide":"right","toNode":"60609870644b8a35","toSide":"left","color":"6","label":"Protocolo"},
+		{"id":"7a69e36956e03c63","fromNode":"8bb5dd338744c362","fromSide":"right","toNode":"a5becc6b8359175d","toSide":"left","color":"6","label":"Protocolo"},
+		{"id":"d133fb6d54ba3550","fromNode":"6119162928bbe765","fromSide":"right","toNode":"f60d0a07d569a421","toSide":"left","color":"6","label":"Protocolo"},
+		{"id":"1e76dac92af0ad42","fromNode":"c6aab331a62ca9f2","fromSide":"bottom","toNode":"b23a556fb55a2e82","toSide":"top","color":"2"},
+		{"id":"7f0f813aa556f3be","fromNode":"b23a556fb55a2e82","fromSide":"bottom","toNode":"8bb5dd338744c362","toSide":"top","color":"2"},
+		{"id":"d6dca5a5349f4ddd","fromNode":"8bb5dd338744c362","fromSide":"bottom","toNode":"6119162928bbe765","toSide":"top","color":"2"},
+		{"id":"9c2842cf7f2b73dc","fromNode":"6119162928bbe765","fromSide":"bottom","toNode":"f60d0a07d569a421","toSide":"bottom","color":"2"},
+		{"id":"d7561b0e43bc8029","fromNode":"f60d0a07d569a421","fromSide":"top","toNode":"a5becc6b8359175d","toSide":"bottom","color":"2"},
+		{"id":"193b93e146da00fc","fromNode":"a5becc6b8359175d","fromSide":"top","toNode":"60609870644b8a35","toSide":"bottom","color":"2"},
+		{"id":"ca9b68d5b3b466b2","fromNode":"60609870644b8a35","fromSide":"top","toNode":"8742395f9bb9e076","toSide":"bottom","color":"2"}
+	]
+}

@@ -1,0 +1,11 @@
+---
+tags:
+  - Pessoal
+  - Filosofia
+  - Zettelkasten
+---
+Agora que tenho estudado com mais frequência, eu tenho conseguido desenvolver o meu TCC numa boa, converso com alugém com a qual demonstro afeto apesar da distância e também consigo encarar as coisas com sorriso, eu vejo que eu aprendi a me levar mais a sério e me tornei uma versão um pouco melhor do que era antes, e acho que isso advém de eu ter começado a de fato seguir meus próprios planos, talvez conseguir seguir minhas ideias, desenhar, estudar, tudo isso me provê a dopamina necessária para que eu continue minha vida. 
+
+Poderia dizer que eu sou uma pessoa sem tempo, mas no entanto, quando reparo, eu estou fazendo tudo que eu queria exatamente fazer, e isso não me pesa a consciência, mas é claro que eu também tenho contradições, sou humano, apenas melhorei ao passar dos tempos quando entendi que ta tudo bem eu ter minhas contradições, isso abre valas dentro de minha própria pessoa onde eu ainda não entendo tão bem assim, então, eu quero citar o caso ainda envolvendo o consumo de conteúdo explicito. Hoje em dia é diferente, só me vem ao caso quando dias se passam, não é mais algo tão compulsório ou que atrapalha totalmente minha vida, não que isso seja bom, se em algum futuro possível eu puder viver sem, eu aceitaria totalmente, mas, eu quero isso? Ainda não sei. Mas eu sei que hoje em dia eu sou melhor do que eu já fui e isso me conforta, vejo que hoje foi mais uma tarde na qual estudei e eu não procrastinei demais, eu estudei, fui à academia, Estudei novamente, e nada disso me pareceu pesado, isso me conforta tanto, me mostra que eu consegui me tornar algo diferente.
+
+Mas não quero me deixar no conforto das pequenas vitorias, mas quero regozijá-las pelo mérito que elas tem, porém, entendo que eu preciso de mais, e eu posso melhorar, não posso me tornar outras pessoas se não a mim mesmo, então, que eu me leve a sério, e me torne **a melhor versão de mim mesmo**. Eu quero ser uma pessoa gentil, uma pessoa que vai deixar um bom exemplo para os seus calouros, a pessoa que conseguiu alcançar seu próprio amor, quero fazer isso por mim.

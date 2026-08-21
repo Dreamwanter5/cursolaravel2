@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Músicas
+    filters:
+      and:
+        - file.folder == "Pessoal/Audiovisual/Música"
+        - file.tags.contains("mediaDB/music/Album")
+    order:
+      - file.name
+      - artists
+    image: note.image

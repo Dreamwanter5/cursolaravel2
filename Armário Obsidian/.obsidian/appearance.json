@@ -1,0 +1,14 @@
+{
+  "accentColor": "#aab19a",
+  "theme": "moonstone",
+  "cssTheme": "Nier",
+  "enabledCssSnippets": [
+    "largura_linhas_painel",
+    "painel_dashboard",
+    "no side decoration",
+    "area_principal",
+    "formatacao-artigo",
+    "padrao"
+  ],
+  "baseFontSize": 17
+}

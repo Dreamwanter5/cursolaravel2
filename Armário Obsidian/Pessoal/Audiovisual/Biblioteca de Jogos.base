@@ -1,0 +1,20 @@
+properties:
+  note.releaseDate:
+    displayName: Data de Lançamento
+  note.played:
+    displayName: Jogado
+views:
+  - type: cards
+    name: Jogos
+    filters:
+      and:
+        - file.folder == "Pessoal/Audiovisual/Jogos"
+    order:
+      - file.name
+      - played
+      - genres
+    image: note.image
+    imageAspectRatio: 0.45
+    cardSize: 350
+  - type: table
+    name: Table

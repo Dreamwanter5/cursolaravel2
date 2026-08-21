@@ -1,0 +1,39 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Animes
+    filters:
+      or:
+        - file.folder == "Pessoal/Audiovisual/Mangas"
+        - file.folder == "Pessoal/Audiovisual/Animes"
+    order:
+      - file.name
+      - genres
+      - watched
+      - authors
+      - writer
+    image: note.image
+    imageAspectRatio: 1.4
+    cardSize: 260
+  - type: cards
+    name: Filmes
+    filters:
+      and:
+        - file.folder == "Pessoal/Audiovisual/Filmes"
+    order:
+      - file.name
+      - genres
+      - personalRating
+      - watched
+    sort: []
+    cardSize: 230
+    image: note.image
+    imageAspectRatio: 1.5
+  - type: table
+    name: Table
+  - type: cards
+    name: card 2
+    filters:
+      and:
+        - file.folder == "Pessoal/Audiovisual/Filmes"

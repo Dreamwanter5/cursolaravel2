@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"56e8f38f7c9738c1","type":"text","text":"","x":-96,"y":-203,"width":250,"height":60},
+		{"id":"022a26df68d05300","type":"text","text":"#### Ideias\n\nCriar um sumário de itens com informações separadas no obsidian.","x":-460,"y":-420,"width":325,"height":136},
+		{"id":"b0363058fe57f76e","type":"text","text":"## CLIMAX/ Encontro\n\n- Onde o RPG acabou, no hospital enpelotado por Zumbis,  lá é onde irá acontecer o Climax, Leo se vê diante do paranormal, ele encontra a última carta, a carta deixa a entender que Narciso estava morto, ela vai contar os detalhes da última sessão.\n\nQuando Leo terminar de ler a carta ele será emboscado por criaturas da noite e será salvo pelo próprio Narciso, que de madeira furtiva, vai guiá-lo para fora do hospital abandonado, a cena tem que ser descrita com calma e suspense, é intenção que eles sejam colocados em situações quase morte mais de uma vez e que uma interação forçada aconteça. \n\nTalvez Leo se machuque gravemente, o que o força e desperta no Narciso a intenção de ajudá-lo, para introduzir o esclarecimento da série\n","x":788,"y":-477,"width":812,"height":437},
+		{"id":"d6a60e515dbf10be","type":"text","text":"#### Narciso (PLOT)\n\nO personagem.\n\nEle possui a crença certa de que as situações de sessão eram apenas visões, mas ele não tem noção do poder dele.\n\n ","x":140,"y":-980,"width":580,"height":427}
+	],
+	"edges":[
+		{"id":"65431305eba7f78e","fromNode":"b0363058fe57f76e","fromSide":"top","toNode":"d6a60e515dbf10be","toSide":"right"}
+	]
+}

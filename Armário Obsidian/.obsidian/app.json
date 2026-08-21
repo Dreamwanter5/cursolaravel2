@@ -1,0 +1,42 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Imagens",
+  "readableLineLength": true,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "spellcheckDictionary": [
+    "Fanon",
+    "AUla",
+    "anon ",
+    "ealça",
+    "livro, Fan",
+    "Rabin",
+    "resorts em",
+    " como",
+    "\n### V",
+    " Fano",
+    "avultamento",
+    "ode s",
+    "FANON",
+    " Isayam",
+    "Isayama",
+    "agirmos",
+    " fuves",
+    "experimentou ",
+    "neurodivergentes",
+    "à pár na maiori",
+    " a",
+    "sermo"
+  ],
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview"
+}

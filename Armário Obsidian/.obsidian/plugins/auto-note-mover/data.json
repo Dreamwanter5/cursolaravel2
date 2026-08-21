@@ -1,0 +1,53 @@
+{
+  "trigger_auto_manual": "Manual",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Escola/Projeto de Pesquisa Historia",
+      "tag": "#ProjetoHistória",
+      "pattern": ""
+    },
+    {
+      "folder": "Zettelkasten",
+      "tag": "#Zettelkasten",
+      "pattern": ""
+    },
+    {
+      "folder": "Pessoal/Filmes & Séries & Animes",
+      "tag": "#Filmes",
+      "pattern": ""
+    },
+    {
+      "folder": "Pessoal/Filmes & Séries & Animes",
+      "tag": "#Anime",
+      "pattern": ""
+    },
+    {
+      "folder": "Pessoal/Projetos",
+      "tag": "#Projetos",
+      "pattern": ""
+    },
+    {
+      "folder": "Estudo/Faculdade/Divagações",
+      "tag": "#Divagações",
+      "pattern": ""
+    },
+    {
+      "folder": "Estudo/Faculdade",
+      "tag": "#Faculdade",
+      "pattern": ""
+    },
+    {
+      "folder": "Estudo/Faculdade/Estágio",
+      "tag": "#Estagio",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

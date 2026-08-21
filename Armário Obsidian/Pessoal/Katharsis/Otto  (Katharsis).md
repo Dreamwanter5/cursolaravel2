@@ -1,0 +1,17 @@
+---
+tags:
+  - Katharsis
+  - Pessoal
+  - RPG
+  - oc
+---
+# Otto (katharsis)
+
+***Interlúdio***
+	parte do que eu quero escrever agora gira em torno de experiências recentes que tive e outras reflexões sobre quem poderia ser o Otto dessa realidade perturbada que é a terra de 1225, citando apenas a data em que escrevo isso, para que você se lembre quando voltar aqui no futuro, hoje é 17/11/2025. Segunda-feira, pós Enem.
+
+**Nêmese**
+> Com a ideia de que alternados estão por ai, andando e causando terror no mundo, substituindo pessoas com aquilo que mais as aterroriza. Otto sofre de um caso desses, a diferença é que seu processo de assimilação não foi feito por completo, o que resultou em uma consciência dividida, que constantemente precisa lidar com os conflitos de ser atormentado com uma maré de sensações negativas no qual o mesmo não tem controle. 
+> Esta mulher que o atormenta, rouba e distorce muito da aparência de sua própria mãe, do qual Otto possui uma bagagem de sentimentos mistos. No momento presente da história, ele já seguiu caminho diferentes de sua mãe, mas ainda há chagas não cicatrizadas em suas emoções. Se aproveitando justamente desta sensação, seu alternado ao invés de assumir uma forma parecida com o seu alvo —  no caso Otto — decide tomar essa forma diferente. Isso porque graças a capacidade que os alternados tem de sentir as regiões neurais que controlam o medo de uma pessoa, ele apenas decidiu que esse seria o caminho mais eficiente para fazer com que Otto desistisse da própria vida, o forçando a enfrentar questões que sempre machucaram no fundo, de seu coração apesar da passagem do tempo.
+> A relação de Otto com sua mãe não foi exatamente ruim, por assim dizer, entretanto, ela muito mais se é percebida pelas lacunas, por tudo aquilo que não teve, ele teve o prazer de poder desfrutar da garantia de uma comida todo o dia em um mundo que estava desabando, mas, ao mesmo tempo, não podia confiar na mesma pessoa para poder contar de seus problemas mais pessoais, não por uma falta de tentativa, mas por um aparente desinteresse da outra parte. O que agrava muito do que constitui o personagem do Otto ao passar do tempo, esse home que cresceu, tornou-se capaz de muito, muito que ele próprio sequer acreditava, entretanto, nada disso apaga a sensação de solidão que o mesmo sente. Incapaz de expressar angústia que sente em seus ossos de forma tão intrínseca que palavras parecem meros dispositivos fúteis nesse mundo que ele habita. Sua vida tem sim muitos luxos, mas no final, ele nunca vai escapar de si. Por isso seu Alternado decidiu tomar essa forma caricata de sua mãe, ela é a representação de tudo que ele não pode ser, a representação de sua base enraizada, incapaz de atender expectativas ou de prover significado de sucesso, ao mesmo tempo que representa essa figura de admiração e afeto, é nesta ambiguidade dos afetos em que o medo de Otto triunfa, e ele se atormenta cada vez que escuta essa voz distorcida como a voz de um interlocutor saindo por um rádio com mau funcionamento, o som que emite não é o de ameaças, mas apenas perguntas, perguntas que o próprio não sabe responder porque nem ele encontrou todas as respostas.
+> *Por que eu não posso simplesmente te amar apesar de tudo? - Otto, 2225*

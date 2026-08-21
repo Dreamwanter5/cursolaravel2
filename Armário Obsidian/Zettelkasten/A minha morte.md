@@ -1,0 +1,14 @@
+---
+tags:
+  - Filosofia
+  - Zettelkasten
+---
+Tags: [[Zettelkasten]], [[Filosofia]]
+
+Mais um podcast que escutei de filosofia vermelha. Escutei na academia e foi bom, eu já havia o escutado antes no entando não registrei, então esutando hoje, é como se eu escutasse ideias sempre presentes em minha mente mas que com frequência eu me esqueço. 
+
+Para falar de suas tecnicidades, ele descreveu 4 obras diferentes, um poema, 3 trechos de 3 diferentes livros de 3 diferentes autores e também uma ligação com o seriado 13 Reasons Why. No final, ele desencadeou uma reflexão sobre a morte e tem algumas coisas que ficam comigo para a memória. Como o fato de que a morte poderia ser tratado como "minha morte" e não "nossa morte", toda vez que trazemos a tona esse assunto que é tão complicado a nós, seres avessos a ideia de que as coisas tem um fim. Dentre as ideias apresentadas eu acho válido comentar o que eu reflito por cima delas, e quando me vejo, noto que talvez não possa viver a vida boa que tenho sem ter noção de o que de fato é morrer, se morresse amanhã, me perderia a chance de olhar o azul do esplendor do céu, da emoção de olhar nos olhos de alguém e enxergar no fundo uma pessoa com paixões, e que eu possa chamar essas pessoas de amigos ou amigas. Se morresse amanhã, eu não consigo pensar em como eu seria, só consigo pensar em o que eu deixaria pendente... Não teria me formado no IFPR, não teria concursado para história, não teria vivido um romance, ainda não teria me tornado um monte de coisas, no entanto, vejo que se morresse amanhã, eu não tenho arrependimentos, temo a morte porque ainda anseio pela vida e sei que há tanto que ainda posso ver, sinto que comecei a viver de fato apenas à pouco tempo então quando penso sobre me entristeço. Isso desencadeou uma reflexão minha sobre como enxergo a vida e se podemos ser felizes, e no final, isso só levou a uma resposta que me dei conta faz um tempo. **Para você ser feliz, ou você é maluco ou você é burro**, ou nem tanto assim, contradigo a mijm memsmo porque não acredito em tudo que consigo pensar, acho que eu sempre posso melhorar ou que ainda não ta bom o suficiente, no entanto, eu tenho uma certeza. Eu não posso ser feliz o tempo todo, e meio que ta bom. É por entender o que é se encolher szinho na cama que eu entendi o quão reconfortante foi poder abraçar alguém despido no momento mais ínfimo de intimidade. Então descredibilizei faz um tempo a ideia de que as emoções negativas devam ser afastadas, e acho que essa ideia só tem se solificado recentemente.
+
+Se morresse amanhã, acho que vivi uma boa vida, no entanto, me decepcionaria me dar conta do tanto que eu ainda posso alcançar e o tanto que ainda posso experiênciar, eu sou uma caixinha de conquista em potêncial que falta apenas eu acreditar e levar a sério.
+
+isso me faz pensar sobre [[me levar a sério]]
